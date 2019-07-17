@@ -1,0 +1,5 @@
+To run the code from the windows command prompt keep the csv file
+and python script in the same folder and type the following command
+on the command prompt
+
+==> python task.py
